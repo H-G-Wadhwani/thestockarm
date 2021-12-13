@@ -1179,8 +1179,9 @@ section {
   color: #fff;
 }
 .pricing .recommended .btn-buy:hover {
-  background: #61b959;
-  border-color: #61b959;
+  background: #ffffff;
+  border-color: #ffffff;
+  color: #d69b42;
 }
 .pricing .recommended-badge {
   position: absolute;
